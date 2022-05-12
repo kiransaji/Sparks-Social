@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/acme</item>
+        <item>@font/baloo</item>
+        <item>@font/capriola</item>
+        <item>@font/gurajada</item>
+        <item>@font/kite_one</item>
+        <item>@font/scope_one</item>
+        <item>@font/skranji</item>
+    </array>
+</resources>
